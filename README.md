@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xpt07
+- 👋 Hi, I’m Guilherme
 - 👀 I’m interested in Game and Software Development
 - 🌱 I’m currently learning C++ and C#
 - 🧮 I'm studying Games Engineering at University of Warwick
